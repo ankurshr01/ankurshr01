@@ -9,7 +9,7 @@ Currently pursuing B.Tech in Electronics and communication engineering from <b>I
 <ul>
   <li> My portfolio : <a href="https://ankurshr01.github.io/Portfolio/">check out</a></li>
   <li> Connect with me on <a href="https://www.linkedin.com/in/ankur-sharma-090412185/">LinkedIn </a> 💼  </li>
-  <li> Lets have chat on my with "chat" room name ( coming soon ) </li>
+  <li> Lets have chat on my chating servr with "chat" room name ( coming soon ) </li>
 </ul>
 
 <!--
