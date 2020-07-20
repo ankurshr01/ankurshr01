@@ -1,5 +1,7 @@
 ### I am Ankur Sharma
 
+<img src="https://raw.githubusercontent.com/ankurshr01/ankurshr01/master/prof.png" style=" height=70% ">
+
 I am a web developer and I am very passionate about learning new skills and contribute to the open source.<br>
 I am a Technical writer too. Check out my <a href="https://ankurblogpost.pythonanywhere.com/"> Blog ✍🏾</a><br>
 Currently pursuing B.Tech in Electronics and communication engineering from <b>Indian Institute of Technology, Roorkee</b>.<br>
