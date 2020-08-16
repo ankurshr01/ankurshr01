@@ -12,7 +12,7 @@ Some Technologies which I enjoy working with includes : Django, Python, javascri
 <ul>
   <li> My portfolio : <a href="https://ankurshr01.github.io/Portfolio/">check out</a></li>
   <li> Connect with me on <a href="https://www.linkedin.com/in/ankur-sharma-090412185/">LinkedIn </a> 💼  </li>
-  <li> Lets have chat on my chating servr with "chat" room name ( coming soon ) </li>
+  <li> Lets have chat on my chating <a href="http://text-o.herokuapp.com/"> server </a>with room name as "chatwithankur" and drop a "Hi" 😉 </li>
 </ul>
 
 <!--
