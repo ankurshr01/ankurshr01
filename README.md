@@ -3,15 +3,15 @@
 <img src="https://raw.githubusercontent.com/ankurshr01/ankurshr01/master/prof.png" style=" height=70% ">
 
 I am a web developer and I am very passionate about learning new skills and contribute to the open source.<br>
-I am a Technical writer too. Check out my <a href="https://ankurblogpost.pythonanywhere.com/"> Blog ✍🏾</a><br>
+I am a Technical writer too.🏾</a><br>
 Currently pursuing B.Tech in Electronics and communication engineering from <b>Indian Institute of Technology, Roorkee</b>.<br>
 Some Technologies which I enjoy working with includes : Django, Python, javascript, C++. 😀 
 
 ### Find me around the web 🌍 :
 
 <ul>
-  <li> My portfolio : <a href="https://ankurshr01.github.io/Portfolio/">check out</a></li>
-  <li> Connect with me on <a href="https://www.linkedin.com/in/ankur-sharma-090412185/">LinkedIn </a> 💼  </li>
+  <li> My portfolio : <a href="http://ankurshr.online">check out</a></li>
+  <li> Connect with me on <a href="https://www.linkedin.com/in/ankurshr01 </a> 💼  </li>
   <li> Lets have chat on my chating <a href="http://text-o.herokuapp.com/"> server </a>with room name as "chatwithankur" and drop a "Hi" 😉 </li>
 </ul>
 
